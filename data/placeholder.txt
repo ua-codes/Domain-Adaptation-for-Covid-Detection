@@ -1,0 +1,13 @@
+# Dataset Information
+
+The datasets used in this research are stored externally due to their size.
+
+### Sources:
+1. **COVID-CT-MD**: 43,322 DICOM slices (Normal, COVID-19, CAP).
+2. **Kaggle Lung CT**: 8,439 PNG images.
+3. **BIMCV-PadChest**: (Source 3 details)
+4. **MosMedData**: (Source 4 details)
+
+### Accessing the Data:
+- For reproduction, the data must be placed in a Google Drive folder named `COVID_Project`.
+- The notebook `notebooks/COVID19_Final_Model.ipynb` is configured to mount Google Drive and look for paths in `/content/drive/MyDrive/COVID_Project/`.
