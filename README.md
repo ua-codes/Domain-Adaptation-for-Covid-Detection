@@ -1,1 +1,1 @@
-# Domain-Adaptation-for-Covid-Detection
+COVID-19 AGCA Hybrid Model
